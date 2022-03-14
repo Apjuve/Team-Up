@@ -20,7 +20,7 @@
     "url": "https://github.com/Apjuve/Team-Up/issues"
   },
   "homepage": "https://github.com/Apjuve/Team-Up#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^27.5.1"
   }
 }
